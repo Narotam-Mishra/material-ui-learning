@@ -32,3 +32,19 @@ Q. What is Material UI?
 # mui/material is the core material library which provides us with ready-to-use components,
 
 # @emotion/react - it is a library designed for writing CSS styles with JavaScript and it is the default styling solution used with version 5 of MUI
+
+## Lec 3 - Typography (9:00)
+
+# Typography deals with the style and appearance of text on the website.
+
+# If the website has text content with way too many styles or font sizes it sort of spoils the UI. To address this concern MUI provides typography levels. Each level has definite font size, font weight and line height.
+
+# There are 13 different variations of Typography component.
+
+# We can find default theme on MUI Docx under Customization.
+
+#In Typography, we can change the semantic element using the component 'prop'. Suppose we wanted to use h4 tag as heading element in every page, however we want the underlying html tag to be h1 and not h4 for that we can specify component like below
+
+<Typography variant='h4' component='h1'>h4 Heading</Typography>
+
+# gutterBottom used to give margin button to the required element.

@@ -1,6 +1,8 @@
 
 ## Material UI
-- [Offical Docs](https://mui.com/material-ui/getting-started/installation/)
+- [Official Documetation](https://mui.com/material-ui/getting-started/installation/)
+
+- [MUI Customization](https://mui.com/material-ui/customization/default-theme/)
 
 ## React + TypeScript + Vite
 

@@ -1,6 +1,6 @@
 
 ## Material UI
-- [Official Documetation](https://mui.com/material-ui/getting-started/installation/)
+- [MUI Official Documetation](https://mui.com/material-ui/getting-started/installation/)
 
 - [MUI Customization](https://mui.com/material-ui/customization/default-theme/)
 

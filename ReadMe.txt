@@ -41,6 +41,8 @@ Q. What is Material UI?
 
 # There are 13 different variations of Typography component.
 
+# body1 and body2 are rendered as paragraph HTML elements.
+
 # We can find default theme on MUI Docx under Customization.
 
 #In Typography, we can change the semantic element using the component 'prop'. Suppose we wanted to use h4 tag as heading element in every page, however we want the underlying html tag to be h1 and not h4 for that we can specify component like below
@@ -48,3 +50,19 @@ Q. What is Material UI?
 <Typography variant='h4' component='h1'>h4 Heading</Typography>
 
 # gutterBottom used to give margin button to the required element.
+
+## Lec 4 - Button (14:03)
+
+# MUI Buttons are basically native button or anchor elements enchanced with material design.
+
+# To make use of MUI Buttons we need to import button component 
+
+# Button component has three variants that we can use.
+
+# Text variant is typically used when we have to grab less attention in the UI. Example - In a card popup or confirmation pop up. 
+
+# confirmation variant is used when we have to grab user's attention and is used for primary actions in our application. Example - Login and Register button.
+
+# outlined variant is sort of in between text and contained in terms of grabbing user's attention. they can be used for secondary actions in our application. For example - cancel or go back buttons.
+
+# 

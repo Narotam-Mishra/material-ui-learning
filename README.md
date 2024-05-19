@@ -4,6 +4,10 @@
 
 - [MUI Customization](https://mui.com/material-ui/customization/default-theme/)
 
+- [MUI Color palette](https://mui.com/material-ui/customization/palette/)
+
+- [MUI Icons](https://mui.com/material-ui/icons/)
+
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

@@ -59,10 +59,32 @@ Q. What is Material UI?
 
 # Button component has three variants that we can use.
 
-# Text variant is typically used when we have to grab less attention in the UI. Example - In a card popup or confirmation pop up. 
+1). # Text variant is typically used when we have to grab less attention in the UI. Example - In a card footer or confirmation pop up. 
 
-# confirmation variant is used when we have to grab user's attention and is used for primary actions in our application. Example - Login and Register button.
+2). # contained variant is used when we have to grab user's attention and is used for primary actions in our application. Example - Login and Register button.
 
-# outlined variant is sort of in between text and contained in terms of grabbing user's attention. they can be used for secondary actions in our application. For example - cancel or go back buttons.
+3). # outlined variant is sort of in between text and contained in terms of grabbing user's attention. they can be used for secondary actions in our application. For example - cancel or go back buttons.
 
-# 
+# When we inspect these buttons in Dev tool then we can see the these three elements are button elements.
+
+# We can also use 'href' attribute with the buttons. In such case the button becomes a link and the underlying html is now an anchor element.
+
+# In MUI, we have predefined palette for colors (link - https://mui.com/material-ui/customization/palette/)
+
+# For large or smaller buttons we can use the size prop.
+
+# display is equal to 'block' is important as display 'flex' is the default value and affects the size of the buttons.
+
+# how to add icons :- the MUI has a icons library with close to 2000 icons that we can use. (link - https://mui.com/material-ui/icons/). The Icons library give us access to the icons set (available in Material Icons)
+
+# If we wanted to create a button with just an icon and without any text, to create such buttons MUI provides a second component 'IconButton'.
+
+# Icon buttons are more appropriate for navigation bars where the regular buttons might look too pronounced.
+
+# In contained buttons we can see that they are elevated and have a shadow. we can disable elevation using 'disableElevation' prop.
+
+# When we click a button then we can see a ripple effect. We can disable this using 'disableRipple' prop.
+
+# To handle click event, we can use 'onClick' prop.
+
+## Lec 5 - Button Group ()

@@ -87,4 +87,18 @@ Q. What is Material UI?
 
 # To handle click event, we can use 'onClick' prop.
 
-## Lec 5 - Button Group ()
+## Lec 5 - Button Group (4:40)
+
+# A possible scenario for the Button Group could be allowing the user to align content either left, center or right.
+
+# when we use a ButtonGroup component, the variant should be specified on the button group and not on the individual buttons.
+
+# Note - In button group, the 'onClick' prop has to be specified on the individual buttons.
+
+# It is recommended to add an aria label. This will help us with accessbility.
+
+## Lec 6 - Toggle Button (7:11)
+
+# Toggle buttons can be used to group related options. However, this time we also have access to the selected state of the button group which can be utilized within the component.
+
+# Suppose we want formatting options in our application like bold, italics and underline. To implement this we need to import two components 1). ToggleButtonGroup & 2). ToggleButton

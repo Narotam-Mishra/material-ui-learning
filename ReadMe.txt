@@ -102,3 +102,13 @@ Q. What is Material UI?
 # Toggle buttons can be used to group related options. However, this time we also have access to the selected state of the button group which can be utilized within the component.
 
 # Suppose we want formatting options in our application like bold, italics and underline. To implement this we need to import two components 1). ToggleButtonGroup & 2). ToggleButton
+
+# FormatBoldIcon, FormatItalicIcon & FormatUnderlinedIcon these icons will be the content for the three buttons.
+
+# we have created buttons (for formatting), we need to handle overall selected state of button group as well as the change event and for this we will useState hook from React.
+
+# exclusive prop in ToggleButtonGroup component ensures we can select only one option at a time. So user can format the text either in bold or italic or underlined
+
+## Lec 6 - Text Field (11:42)
+
+# 

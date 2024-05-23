@@ -49,7 +49,7 @@ Q. What is Material UI?
 
 <Typography variant='h4' component='h1'>h4 Heading</Typography>
 
-# gutterBottom used to give margin button to the required element.
+# gutterBottom used to give margin botton to the required element.
 
 ## Lec 4 - Button (14:03)
 
@@ -105,10 +105,27 @@ Q. What is Material UI?
 
 # FormatBoldIcon, FormatItalicIcon & FormatUnderlinedIcon these icons will be the content for the three buttons.
 
-# we have created buttons (for formatting), we need to handle overall selected state of button group as well as the change event and for this we will useState hook from React.
+# we have created buttons (for formatting), we need to handle overall selected state of button group as well as the change event and for this we will use useState hook from React.
 
 # exclusive prop in ToggleButtonGroup component ensures we can select only one option at a time. So user can format the text either in bold or italic or underlined
 
-## Lec 6 - Text Field (11:42)
+## Lec 7 - Text Field (11:42)
 
-# 
+# Text fields allow users to enter text in the browser. For example text fields in a user registration form, login form, checkout page etc.
+
+# In TextField component , we have three variants and outlined is the deafult variant. They are :-
+1). outlined, 2). filled, & 3). standard
+
+# We can use color and size prop also with TextField. Size can be either small, medium or large and color can be one of the predefined colors from the theme palette.
+
+# Form related props that is used with TextField - required, helperText, type etc
+
+# 'type' prop which corresponds to the type attribute of an input element.
+
+# We can also add prefix and suffixes to a text field and for that we use input adornmant component.
+
+# TextField component is a wrapper around an input component and we use input props to target the underlying input component.
+
+# Some other important props that we use are - 1). error which toggles the error state
+
+## Lec 8 - Select ()

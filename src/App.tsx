@@ -1,7 +1,8 @@
 
 import './App.css'
+import MUISelect from './components/MUISelect'
 // import MUIButton from './components/MUIButton'
-import MUITextField from './components/MUITextField'
+// import MUITextField from './components/MUITextField'
 // import MUITypography from './components/MUITypography'
 
 function App() {
@@ -10,7 +11,8 @@ function App() {
     <div className='App'>
      {/* <MUITypography /> */}
      {/* <MUIButton /> */}
-     <MUITextField />
+     {/* <MUITextField /> */}
+     <MUISelect />
     </div>
   )
 }

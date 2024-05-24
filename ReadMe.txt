@@ -128,4 +128,18 @@ Q. What is Material UI?
 
 # Some other important props that we use are - 1). error which toggles the error state
 
-## Lec 8 - Select ()
+## Lec 8 - Select (11:02)
+
+# Select component from MUI is used for collectiong information from list of options 
+
+# Box is just a plain old div tag on which we can specify some CSS like height and width. The select dropdown spans the available width.
+
+# To make use of MUI 'Select' field, we can use two approaches 1). we can use TextField component, 2). we can use a separate select component which MUI provides.
+
+# select dropdown also needs options which will be specified using menu item component.
+
+# A variation of the select drop down is one where we can select multiple options.
+
+# There are variations of the multi-select implementation where the options are checkboxes and the display is a list of chips instead of comma separated values. However we have not come across those individual yet and as beginner they are not necessary.
+
+# More practical usage of this MUI Select component is will probabaly involve fetching the list of dropdown options from an API and populating the list.

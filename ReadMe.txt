@@ -143,3 +143,25 @@ Q. What is Material UI?
 # There are variations of the multi-select implementation where the options are checkboxes and the display is a list of chips instead of comma separated values. However we have not come across those individual yet and as beginner they are not necessary.
 
 # More practical usage of this MUI Select component is will probabaly involve fetching the list of dropdown options from an API and populating the list.
+
+## Lec 9 - Radio Button (8:19)
+
+# FromtControl --> is a wrapper component,
+
+# FormLabel --> this component is used to specify the label for the group of radio buttons.
+
+# FormControlLabel :- this component is used to label the individual radio buttons,
+
+# RadioGroup -> which wraps the individual radio component.
+
+# FormHelperText - If we want to add an error message then we can add the FormHelperText component.
+
+## Lec 10 - Checkbox (11:46)
+
+# For single checkbox, we need to import two components and they are FormControlLabel & Checkbox
+
+# We can also use icons as checkbox
+
+# How to work with checkbox group 
+
+## Lec 11 - Switch (04:21)

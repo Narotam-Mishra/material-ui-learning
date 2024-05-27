@@ -165,3 +165,9 @@ Q. What is Material UI?
 # How to work with checkbox group 
 
 ## Lec 11 - Switch (04:21)
+
+# switch component toggle the state of a single setting on or off and are the preferred way to adjust settings on mobile.
+
+# switch option for user to toggle dark mode.
+
+# If we want to use group of switches then in such case we can refer to the checkbox group. All we have to do is to change the control prop to switch from checkbox.

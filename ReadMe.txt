@@ -171,3 +171,17 @@ Q. What is Material UI?
 # switch option for user to toggle dark mode.
 
 # If we want to use group of switches then in such case we can refer to the checkbox group. All we have to do is to change the control prop to switch from checkbox.
+
+## Lec 12 -  Rating (7:45)
+
+# Rating provide insight regarding others opinions and can allow the user to submit a rating of their own.
+
+# 'precison' prop - using this prop we can select in multiple.
+
+# Icon and empty icon which help customize the rating icon.
+
+# 'highlightSelectedOnly' prop - as its name indicates highlights only one icon instead of all the icons leading up to that value.
+
+# This prop is more suitable when you are collecting feedback using emojis. The first icon can be frawning icon and the last icon can be smiling icon, selecting the smiling icon should not highlight all the icons that appear before it.
+
+## Lec 13 - ()

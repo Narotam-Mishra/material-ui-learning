@@ -184,4 +184,16 @@ Q. What is Material UI?
 
 # This prop is more suitable when you are collecting feedback using emojis. The first icon can be frawning icon and the last icon can be smiling icon, selecting the smiling icon should not highlight all the icons that appear before it.
 
-## Lec 13 - ()
+## Lec 13 - Autocomplete (9:22)
+
+# Autocomplete component has two mandatory props 1). options - which should be an array of strings, 2). renderInput - which renders the input.
+
+# Autocomplete behaves like a combo box, when we click inside we see the options.
+
+# Initially Autocomplete will not allow you to enter free text so if you type in random string and press enter, it won't be accepted. In order to allow the free solo prop, so on the autocomplete add 'freeSolo' and save the file.
+
+# This scenario is suitable for autocomplete like google search.
+
+# The Autocomplete component can accept either an array of strings or an array of objects which contains label key.
+
+## Lec 14 -  ()

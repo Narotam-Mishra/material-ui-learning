@@ -1,6 +1,7 @@
 
 import './App.css'
-import MUIAutoComplete from './components/MUIAutoComplete'
+// import MUILayout from './components/MUILayout'
+// import MUIAutoComplete from './components/MUIAutoComplete'
 // import MUIRating from './components/MUIRating'
 // import MUISwitch from './components/MUISwitch'
 // import MUICheckbox from './components/MUICheckbox'
@@ -22,7 +23,8 @@ function App() {
      {/* <MUICheckbox /> */}
      {/* <MUISwitch /> */}
      {/* <MUIRating /> */}
-     <MUIAutoComplete />
+     {/* <MUIAutoComplete /> */}
+     {/* <MUILayout /> */}
     </div>
   )
 }

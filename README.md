@@ -8,6 +8,8 @@
 
 - [MUI Icons](https://mui.com/material-ui/icons/)
 
+- [MUI System - Overview](https://mui.com/system/getting-started/)
+
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

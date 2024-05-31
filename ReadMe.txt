@@ -196,4 +196,19 @@ Q. What is Material UI?
 
 # The Autocomplete component can accept either an array of strings or an array of objects which contains label key.
 
-## Lec 14 -  ()
+## Lec 14 -  Box (7:26)
+
+# Box is first layout related component. Primarily the Box component serves as a wrapper component for most of your CSS utility needs.
+
+# Box component in its most basic form used as a replacement for div tag.
+
+# If we wanted to use semantic html like section, article, nav tag etc. To account for that Box component accepts a 'component' prop.
+
+Q. Why we can't use simply div, span or html semantic html elements?
+# It is because the Box component accepts a prop called 'sx' that can be used for defining custom style that has access to the theme.
+
+# If we wanted to use regular inline styles on a normal html tag, we can not access the theme nor specify hover styles like we have done here.
+
+# Box component as a CSS Utility component, it supports what are called Material UI System properties that simply means we can use a lot of the CSS properties as a prop directly on the component.
+
+## Lec 15 -  ()

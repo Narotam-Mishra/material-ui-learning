@@ -211,4 +211,8 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # Box component as a CSS Utility component, it supports what are called Material UI System properties that simply means we can use a lot of the CSS properties as a prop directly on the component.
 
-## Lec 15 -  ()
+## Lec 15 -  Stack (3:53)
+
+# Stack is another layout related component. Stack component is used to manage layout in one dimension either along the vertical or the horizontal axis.
+
+# By default the Stack component arranges all the children elements in a column

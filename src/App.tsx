@@ -1,6 +1,6 @@
 
 import './App.css'
-// import MUILayout from './components/MUILayout'
+import MUILayout from './components/MUILayout'
 // import MUIAutoComplete from './components/MUIAutoComplete'
 // import MUIRating from './components/MUIRating'
 // import MUISwitch from './components/MUISwitch'
@@ -24,7 +24,7 @@ function App() {
      {/* <MUISwitch /> */}
      {/* <MUIRating /> */}
      {/* <MUIAutoComplete /> */}
-     {/* <MUILayout /> */}
+     <MUILayout />
     </div>
   )
 }

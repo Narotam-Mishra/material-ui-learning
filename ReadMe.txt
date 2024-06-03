@@ -235,4 +235,10 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # Paper is a surface related component in MUI. It is a great component to use when creating layouts and provides a visual hierarchy which is very important in Material design.
 
-# 
+# Let us assume that there is some content on the web page like a sign up section or a contact form. A common UI design is to put that content in a Card with some elevation and shadow and this can be done using Paper component.
+
+# We can control the shadow using 'elevation' prop, by default the value is 1. More the shadow more will be the depth hierarchy.
+
+# So based on your app design we can use the 'Paper' component to establish sections of UI and also visual hierarchy. This Paper component is also used under the hood to build card component MUI.
+
+## Lec 18 -  ()

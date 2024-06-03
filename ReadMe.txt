@@ -215,4 +215,24 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # Stack is another layout related component. Stack component is used to manage layout in one dimension either along the vertical or the horizontal axis.
 
-# By default the Stack component arranges all the children elements in a column
+# By default the Stack component arranges all the children elements in a column.
+
+## Lec 16 -  Grid (7:43)
+
+# Third layout related component i.e Grid component. It is useful for creating 2-D and responsive layout. 
+
+# Grid component has two variations - 1). Grid container for the parent and 2). Grid item for the children 
+
+# The Grid component under the hood uses the flexbox module. It consists of 12 columns.
+
+# Each item in Grid can take up one or more columns as its width. There are five breakpoints each corresponding to a certain device width.
+
+# xs - for mobile device, sm - for tablet, md - for desktop, lg and xl - for larger monitors.
+
+# If we want to equally distribute the available width between all the items, then we can rely on order layout.
+
+## Lec 17 -  Paper (2:47)
+
+# Paper is a surface related component in MUI. It is a great component to use when creating layouts and provides a visual hierarchy which is very important in Material design.
+
+# 

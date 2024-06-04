@@ -241,4 +241,12 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # So based on your app design we can use the 'Paper' component to establish sections of UI and also visual hierarchy. This Paper component is also used under the hood to build card component MUI.
 
-## Lec 18 -  ()
+## Lec 18 -  Card (5:05)
+
+# Cards contain content and actions about a single topic.
+
+# To work with Card component, we need need two more components - 1). CardContent, 2). Typography,
+
+# CardActions are typically buttons, so we need to import Button component to work with CardAction.
+
+# To include images we need to import the card media component

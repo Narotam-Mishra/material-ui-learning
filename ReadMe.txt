@@ -250,3 +250,14 @@ Q. Why we can't use simply div, span or html semantic html elements?
 # CardActions are typically buttons, so we need to import Button component to work with CardAction.
 
 # To include images we need to import the card media component
+
+## Lec 19 -   Accordion (7:19)
+
+# Accordion component allows the user t show and hide sections of related content on a page.
+
+# To use Accordion component, we need to import three components.
+
+# In case of Accordion group the ideal behaviour is such that only one accordion is expanded at any given time. We can take care of that by maintaining state variable and adding the expanded and on change props.
+
+# When no accordion is expanded then the state value will be false.
+

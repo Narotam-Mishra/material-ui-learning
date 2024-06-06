@@ -261,3 +261,12 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # When no accordion is expanded then the state value will be false.
 
+## Lec 20 -  ImageList (9:37)
+
+# ImageList component used to display a collection of images in an organized grid. Suppose if we building recipe website then this component will be very useful.
+
+# In order to use ImageList component, we need to import one more additional components i.e ImageListItem.
+
+# The 'masonry' layout is best suited for dynamically sized uncropped content and does well with the aspect ratio of the image.
+
+# ImageListItemBar component which let us add an overlaty to each image.

@@ -270,3 +270,15 @@ Q. Why we can't use simply div, span or html semantic html elements?
 # The 'masonry' layout is best suited for dynamically sized uncropped content and does well with the aspect ratio of the image.
 
 # ImageListItemBar component which let us add an overlaty to each image.
+
+## Lec 21 - Navbar (6:02)
+
+# Navbar component is primarily used for branding and navigation.
+
+# To create 'navbar' we need two components 1). Appbar, 2). Toolbar
+
+# By default the 'position' prop on this component is set to 'fixed'. To work with Navbar , we will set it to 'static'
+
+# Note - Navbar doesn't have a strict design to follow, the content is completely upto you. But Appbar & Toolbar are the basic components we shall be needing.
+
+## Lec 22 -  ()

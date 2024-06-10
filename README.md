@@ -10,6 +10,8 @@
 
 - [MUI System - Overview](https://mui.com/system/getting-started/)
 
+- [MUI Popover component](https://mui.com/material-ui/react-popover/)
+
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

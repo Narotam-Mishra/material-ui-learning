@@ -281,4 +281,10 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # Note - Navbar doesn't have a strict design to follow, the content is completely upto you. But Appbar & Toolbar are the basic components we shall be needing.
 
-## Lec 22 -  ()
+## Lec 22 -  Menu (9:10)
+
+# Menus display a list of choices on temporary surfaces.
+
+# To create 'menu' we need two components, 1). Menu , 2). MenuItem
+
+## Lec 23 -  ()

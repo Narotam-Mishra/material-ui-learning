@@ -287,4 +287,8 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # To create 'menu' we need two components, 1). Menu , 2). MenuItem
 
-## Lec 23 -  ()
+## Lec 23 -  Link (4:32)
+
+# Link component allow us to easily customize with theme colors and typography styles. It's one of the mosrt straightforward component to use with very few props.
+
+# 

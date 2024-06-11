@@ -1,6 +1,7 @@
 
 import './App.css'
-import MUILink from './components/MUILink'
+import MUIBreadcrumbs from './components/MUIBreadcrumbs'
+// import MUILink from './components/MUILink'
 import MUINavbar from './components/MUINavbar'
 // import MUIImageList from './components/MUIImageList'
 // import MUIAccordion from './components/MUIAccordion'
@@ -34,7 +35,8 @@ function App() {
      {/* <MUIAccordion /> */}
      {/* <MUIImageList /> */}
      <MUINavbar />
-     <MUILink />
+     {/* <MUILink /> */}
+     <MUIBreadcrumbs />
     </div>
   )
 }

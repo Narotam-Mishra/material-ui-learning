@@ -291,4 +291,14 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # Link component allow us to easily customize with theme colors and typography styles. It's one of the mosrt straightforward component to use with very few props.
 
+## Lec 24 - Breadcrumbs (6:04)
+
+# Breadcrumbs is a type of secondary navigation scheme that reveals the user's location in a website.
+
+# Within Breadcrumbs component, for every route we use a link component except for the current route the user is viewing.
+
+## Lec 25 - Drawer (5:36)
+
+# Drawer component can be used to create a sidebar which can be used for a number of things which completely depend on your application. They can contain links to other pages in your app allow you to switch accounts etc.
+
 # 

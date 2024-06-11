@@ -1,6 +1,7 @@
 
 import './App.css'
 import MUIBreadcrumbs from './components/MUIBreadcrumbs'
+import MUIDrawer from './components/MUIDrawer'
 // import MUILink from './components/MUILink'
 import MUINavbar from './components/MUINavbar'
 // import MUIImageList from './components/MUIImageList'
@@ -37,6 +38,7 @@ function App() {
      <MUINavbar />
      {/* <MUILink /> */}
      <MUIBreadcrumbs />
+     <MUIDrawer />
     </div>
   )
 }

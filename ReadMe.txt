@@ -301,4 +301,10 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # Drawer component can be used to create a sidebar which can be used for a number of things which completely depend on your application. They can contain links to other pages in your app allow you to switch accounts etc.
 
-## Lec 26 - () 
+## Lec 26 - Speed Dial (5:34)
+
+# Speed dial when pressed the component displays a few options in the form of speed dial.
+
+# To create a speed dial components, we need two more components :- a). SpeedDialAction, b). SpeedDialIcon 
+
+# This component is more applicable for a mobile device.

@@ -1,9 +1,10 @@
 
 import './App.css'
-import MUIBreadcrumbs from './components/MUIBreadcrumbs'
-import MUIDrawer from './components/MUIDrawer'
+// import MUIBreadcrumbs from './components/MUIBreadcrumbs'
+// import MUIDrawer from './components/MUIDrawer'
 // import MUILink from './components/MUILink'
-import MUINavbar from './components/MUINavbar'
+// import MUINavbar from './components/MUINavbar'
+import MUISpeedDial from './components/MUISpeedDial'
 // import MUIImageList from './components/MUIImageList'
 // import MUIAccordion from './components/MUIAccordion'
 // import MUICard from './components/MUICard'
@@ -35,10 +36,11 @@ function App() {
      {/* <MUICard /> */}
      {/* <MUIAccordion /> */}
      {/* <MUIImageList /> */}
-     <MUINavbar />
+     {/* <MUINavbar /> */}
      {/* <MUILink /> */}
-     <MUIBreadcrumbs />
-     <MUIDrawer />
+     {/* <MUIBreadcrumbs /> */}
+     {/* <MUIDrawer /> */}
+     <MUISpeedDial />
     </div>
   )
 }

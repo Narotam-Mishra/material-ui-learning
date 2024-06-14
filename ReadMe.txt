@@ -308,3 +308,11 @@ Q. Why we can't use simply div, span or html semantic html elements?
 # To create a speed dial components, we need two more components :- a). SpeedDialAction, b). SpeedDialIcon 
 
 # This component is more applicable for a mobile device.
+
+## Lec 27 - Bottom Navigation (5:29)
+
+# Bottom Navigation is well suited for mobile and tablet device sizes and is used to switch between the primary destinations in an application.
+
+## Lec 28 - Avatar (6:38)
+
+# 

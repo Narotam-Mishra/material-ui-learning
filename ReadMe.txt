@@ -315,4 +315,8 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 ## Lec 28 - Avatar (6:38)
 
-# 
+# Some of data display components available in MUI are Avatar, Badge
+
+# We can also group Avatars together. They are very useful when we have to showcase speakers for an event. To group Avatars, we need to import AvatarGroup component.
+
+## Lec 29 - ()

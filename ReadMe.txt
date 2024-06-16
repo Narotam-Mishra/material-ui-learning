@@ -325,4 +325,6 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 ## Lec 30 - List (6:22)
 
+# Display data as a list in MUI, In order to display list item items we need to use two more components 1). ListItem, 2). ListItemText
+
 # 

@@ -319,4 +319,10 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # We can also group Avatars together. They are very useful when we have to showcase speakers for an event. To group Avatars, we need to import AvatarGroup component.
 
-## Lec 29 - ()
+## Lec 29 - Badge (4:55)
+
+# The Badge component generates a small badge to the top right of its child element.
+
+## Lec 30 - List (6:22)
+
+# 

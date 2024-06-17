@@ -345,4 +345,10 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # Table component used to display table of data.
 
-# To work with Table component we need to use various other components like TableContainer, TableHead, TableBody, TableRow, TableCell & Paper
+# To work with Table component we need to use various other components like TableContainer, TableHead, TableBody, TableRow, TableCell & Paper.
+
+## Lec 34 - Alert (6:17)
+
+# Alert is a feedback component in MUI.
+
+# An Alert component displays a short important message in a way that attracts the user's attention without interrupting the user's task. 

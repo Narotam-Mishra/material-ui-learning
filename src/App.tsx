@@ -1,6 +1,8 @@
 
 import './App.css'
-import MUIChip from './components/MUIChip'
+import MUITable from './components/MUITable'
+// import MUITooltip from './components/MUITooltip'
+// import MUIChip from './components/MUIChip'
 // import MUIBadge from './components/MUIBadge'
 // import MUIList from './components/MUIList'
 // import MUIAvatar from './components/MUIAvatar'
@@ -50,7 +52,9 @@ function App() {
      {/* <MUIAvatar /> */}
      {/* <MUIBadge /> */}
      {/* <MUIList /> */}
-     <MUIChip />
+     {/* <MUIChip /> */}
+     {/* <MUITooltip /> */}
+     <MUITable />
     </div>
   )
 }

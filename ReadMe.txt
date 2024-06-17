@@ -337,4 +337,12 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 ## Lec 32 - Tooltip (4:12)
 
-# 
+# Tooltip component used to display informative text when users hover over, focus on or tap an element. They are especially useful when working with icons.
+
+# This Tooltip component is useful when we deal with a table of elements that need a Tooltip, if the user is moving the cursor around, we don't want the tooltip appearing every now and then, with an enter dealy it only appears when the user is in fact trying to hover over the element.
+
+## Lec 33 - Table (7:01)
+
+# Table component used to display table of data.
+
+# To work with Table component we need to use various other components like TableContainer, TableHead, TableBody, TableRow, TableCell & Paper

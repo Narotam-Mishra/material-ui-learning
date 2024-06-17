@@ -1,7 +1,8 @@
 
 import './App.css'
+import MUIChip from './components/MUIChip'
 // import MUIBadge from './components/MUIBadge'
-import MUIList from './components/MUIList'
+// import MUIList from './components/MUIList'
 // import MUIAvatar from './components/MUIAvatar'
 // import MUIBottomNavigation from './components/MUIBottomNavigation'
 // import MUIBreadcrumbs from './components/MUIBreadcrumbs'
@@ -48,7 +49,8 @@ function App() {
      {/* <MUIBottomNavigation /> */}
      {/* <MUIAvatar /> */}
      {/* <MUIBadge /> */}
-     <MUIList />
+     {/* <MUIList /> */}
+     <MUIChip />
     </div>
   )
 }

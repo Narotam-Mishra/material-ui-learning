@@ -327,4 +327,14 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # Display data as a list in MUI, In order to display list item items we need to use two more components 1). ListItem, 2). ListItemText
 
+## Lec 31 - Chip (7:41)
+
+# chip component allow users to enter information, make selections, filter content or trigger actions. For example - showcasing tags on blog post.
+
+# By default a chip is read only however we can handle click events by handling the on click event.
+
+# chip component also exposes an 'onDelete' function and that will work in addition to the click handler.
+
+## Lec 32 - Tooltip (4:12)
+
 # 

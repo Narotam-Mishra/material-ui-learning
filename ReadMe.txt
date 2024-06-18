@@ -352,3 +352,13 @@ Q. Why we can't use simply div, span or html semantic html elements?
 # Alert is a feedback component in MUI.
 
 # An Alert component displays a short important message in a way that attracts the user's attention without interrupting the user's task. 
+
+## Lec 35 -  Snackbar (8:16)
+
+# Snackbar component provide brief notifications and also known as 'toast' notifications.
+
+# As per MUI docs, Snackbar inform users of a process that an App has performed or will perform. They appear temporarily towards the bottom of the screen they don't require user input to disappear.
+
+## Lec 36 - Dialog (6:54)
+
+# A Dialog is a type of a modal that appears in front of the application content to present important information or ask for a decision. Unlike a snackbar Dialog component disable all app functionalities when they appear and remain on screen untill confirmed or dismissed. Since they are purposefully interruptive make sure to use them only when necessary.

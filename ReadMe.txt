@@ -362,3 +362,9 @@ Q. Why we can't use simply div, span or html semantic html elements?
 ## Lec 36 - Dialog (6:54)
 
 # A Dialog is a type of a modal that appears in front of the application content to present important information or ask for a decision. Unlike a snackbar Dialog component disable all app functionalities when they appear and remain on screen untill confirmed or dismissed. Since they are purposefully interruptive make sure to use them only when necessary.
+
+## Lec 37 - Progress (3:53)
+
+# progress indicators inform users about the status of ongoing processes such as loading an app, submitting a form or saving updates. In MUI, we have linear and circular indicators and each of them can either be indeterminate or determined.
+
+# We can use progress indicators when we used to make API requests and user needs to be aware of the background process.

@@ -368,3 +368,15 @@ Q. Why we can't use simply div, span or html semantic html elements?
 # progress indicators inform users about the status of ongoing processes such as loading an app, submitting a form or saving updates. In MUI, we have linear and circular indicators and each of them can either be indeterminate or determined.
 
 # We can use progress indicators when we used to make API requests and user needs to be aware of the background process.
+
+## Lec 38 - Skeleton (9:41)
+
+# Skeleton components are used to display a placeholder preview of the content before the data get loaded to reduce load time.
+
+# Suppose if we wnated to show a loading state a Skeleton with animation is recommended.
+
+# Note - If we nest a Skeleton inside a typography component then the skeleton automatically infers the dimensions of the typography based on the variant.
+
+## Lec 39 - Loading Button (5:51)
+
+# 

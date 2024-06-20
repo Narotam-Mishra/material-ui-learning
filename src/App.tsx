@@ -1,6 +1,7 @@
 
 import './App.css'
-import MUIProgress from './components/MUIProgress'
+// import MUIProgress from './components/MUIProgress'
+import MUISkeleton from './components/MUISkeleton'
 // import MUIDialog from './components/MUIDialog'
 // import MUISnackbar from './components/MUISnackbar'
 // import MUIAlert from './components/MUIAlert'
@@ -62,7 +63,8 @@ function App() {
      {/* <MUIAlert /> */}
      {/* <MUISnackbar /> */}
      {/* <MUIDialog /> */}
-     <MUIProgress />
+     {/* <MUIProgress /> */}
+     <MUISkeleton />
     </div>
   )
 }

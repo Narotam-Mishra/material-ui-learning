@@ -379,4 +379,18 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 ## Lec 39 - Loading Button (5:51)
 
-# 
+# The material lab package contain components that are still under development and might need a bit of work before they are part of the core package. But still we use can use them in our application. There are couple of lab packages available, one of them is "LoadingButton" component.
+
+# LoadingButton behaves very similar to that of regular 'Button' component of MUI however LoadingButton makes it easy to show a loading state with the help of the loading prop.
+
+## Lec 40 - Date and Time Picker (9:38)
+
+# To work with date and time pickers we need to install a date library and a date adapter.
+
+# To add date picker to our application we need to import two more components, 1). DatePicker (from @mui/lab) 2). TextField (from @mui/material)
+
+# 'renderInput' prop controls the element that is displayed as the date picker.
+
+# Time picker works very similar to that of Date picker.
+
+# MUI also provides date-time picker which is combination of two components date and time picker. 

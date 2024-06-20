@@ -393,4 +393,8 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # Time picker works very similar to that of Date picker.
 
-# MUI also provides date-time picker which is combination of two components date and time picker. 
+# MUI also provides date-time picker which is combination of two components date and time picker.
+
+## Lec 41 -  Date Range Picker (5:12)
+
+# Date Range Picker component is a variation of the date picker component. It let user select a range of dates and its usage is very similar to the date picker.

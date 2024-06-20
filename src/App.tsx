@@ -3,7 +3,8 @@ import './App.css'
 import { LocalizationProvider } from '@mui/x-date-pickers'
 // import MUILoadingButton from './components/MUILoadingButton'
 import { AdapterDateFns } from '@mui/x-date-pickers/AdapterDateFnsV3'
-import MUIPicker from './components/MUIPicker';
+// import MUIPicker from './components/MUIPicker';
+import MUIDateRangePicker from './components/MUIDateRangePicker';
 
 // import MUIProgress from './components/MUIProgress'
 // import MUISkeleton from './components/MUISkeleton'
@@ -72,7 +73,8 @@ function App() {
         {/* <MUIProgress /> */}
         {/* <MUISkeleton /> */}
         {/* <MUILoadingButton /> */}
-        <MUIPicker />
+        {/* <MUIPicker /> */}
+        <MUIDateRangePicker />
       </div>
     </LocalizationProvider>
   );

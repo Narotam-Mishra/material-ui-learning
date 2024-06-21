@@ -426,3 +426,16 @@ Q. Why we can't use simply div, span or html semantic html elements?
 # If we expand few of these Accordion items then the content automatically rearranges by adding an item to the shortest column. It will do so in order to optimize the use of space.
 
 # Masonry layout is primarily used with images to showcase a gallery but we can always use it with any content that seems fit.
+
+## Lec 45 - Responsiveness (5:18)
+
+# To add responsive values for a CSS property, we can use the breakpoints shorthand syntax.
+
+# Breakpoints 
+   xs: 0 - 600
+   sm: 600 - 900
+   md: 900 - 1200
+   lg: 1200 - 1536
+   xl: 1536 and above
+
+## 

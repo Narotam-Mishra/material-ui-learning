@@ -1,5 +1,7 @@
 
-## Material UI
+## Material UI is a UI component library. It provides us with components to build awesome user interfaces in quick time. It is also an implementation of google's material design specification. Just like how we have Angular Material for angular and Vuetify for Vue, we have Material UI for React.
+
+###  Material UI Important Links
 - [MUI Official Documetation](https://mui.com/material-ui/getting-started/installation/)
 
 - [MUI Customization](https://mui.com/material-ui/customization/default-theme/)

@@ -398,3 +398,9 @@ Q. Why we can't use simply div, span or html semantic html elements?
 ## Lec 41 -  Date Range Picker (5:12)
 
 # Date Range Picker component is a variation of the date picker component. It let user select a range of dates and its usage is very similar to the date picker.
+
+## Lec 42 - Tabs (8:09)
+
+# A tabbed navigation layout can be created with just the core MUI components however the 'lab' package makes it easier. Tabs make it easy to explore and switch between different views.
+
+# For tabbed layout, we need to import four components, from core package we will import the 'Tab' component and other components 'TabContext', 'TabList' and 'TabPanel' from lab.

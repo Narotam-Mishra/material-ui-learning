@@ -6,7 +6,8 @@ import { AdapterDateFns } from '@mui/x-date-pickers/AdapterDateFnsV3'
 // import MUIPicker from './components/MUIPicker';
 // import MUIDateRangePicker from './components/MUIDateRangePicker';
 // import MUITabs from './components/MUITabs';
-import MUITimeline from './components/MUITimeline';
+// import MUITimeline from './components/MUITimeline';
+import MUIMasonary from './components/MUIMasonary';
 
 // import MUIProgress from './components/MUIProgress'
 // import MUISkeleton from './components/MUISkeleton'
@@ -78,7 +79,8 @@ function App() {
         {/* <MUIPicker /> */}
         {/* <MUIDateRangePicker /> */}
         {/* <MUITabs /> */}
-        <MUITimeline />
+        {/* <MUITimeline /> */}
+        <MUIMasonary />
       </div>
     </LocalizationProvider>
   );

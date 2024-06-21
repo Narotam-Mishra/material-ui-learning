@@ -417,4 +417,12 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 ## Lec 44 - Masonry (5:50)
 
-# The Masonry component maintains a list of content blocks with consistent width but differnet height and the contents are ordered by row
+# The Masonry component maintains a list of content blocks with consistent width but differnet height and the contents are ordered by row. If the row is already filled with the specified number of columns then the next item starts another row and it is added to the shortest column in order to optimize the use of space.
+
+# In 'ImageList' component we had seen that it can render the masonry layout for images.
+
+# Based on the height of the content, they are automatically placed in the appropriate column. Now it's possible to handle items with varying heights as well.
+
+# If we expand few of these Accordion items then the content automatically rearranges by adding an item to the shortest column. It will do so in order to optimize the use of space.
+
+# Masonry layout is primarily used with images to showcase a gallery but we can always use it with any content that seems fit.

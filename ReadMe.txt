@@ -404,3 +404,17 @@ Q. Why we can't use simply div, span or html semantic html elements?
 # A tabbed navigation layout can be created with just the core MUI components however the 'lab' package makes it easier. Tabs make it easy to explore and switch between different views.
 
 # For tabbed layout, we need to import four components, from core package we will import the 'Tab' component and other components 'TabContext', 'TabList' and 'TabPanel' from lab.
+
+## Lec 43 - Timeline (5:19)
+
+# The timeline component is used to display a list of events in chronological order.
+
+# For a timeline view we need to import six different components thar are TimelineItem, TimelineSeparator, TimelineConnector, TimelineContent, TimelineDot.
+
+# If we want to have content on both sides then we can make use of the 'TimelineOppositeContent' component.
+
+# In case if we are building transportation app and want to showcase timings for a train or a metro then this component is very helpful.
+
+## Lec 44 - Masonry (5:50)
+
+# The Masonry component maintains a list of content blocks with consistent width but differnet height and the contents are ordered by row

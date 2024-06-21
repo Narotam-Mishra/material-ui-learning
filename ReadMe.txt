@@ -456,5 +456,3 @@ Q. Why we can't use simply div, span or html semantic html elements?
 
 # Module Augumentation in TS - Module augmentation in TypeScript is a feature that allows you to extend existing modules, including built-in ones and third-party libraries, by adding new properties, methods, or interfaces. This is particularly useful when you need to add additional functionality to a module that you don't control, without modifying its original code.
 
-# How to add a new color within a palette color
-

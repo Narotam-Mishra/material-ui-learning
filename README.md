@@ -18,6 +18,10 @@
 
 - [MUI X](https://mui.com/blog/lab-date-pickers-to-mui-x/)
 
+- [MUI Default Theme](https://mui.com/material-ui/customization/default-theme/)
+
+- [Interfaces related to palette object](https://github.com/mui/material-ui/blob/v5.15.15/packages/mui-material/src/styles/createPalette.d.ts)
+
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

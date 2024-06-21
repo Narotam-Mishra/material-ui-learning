@@ -438,4 +438,23 @@ Q. Why we can't use simply div, span or html semantic html elements?
    lg: 1200 - 1536
    xl: 1536 and above
 
-## 
+## Lec 46 - Customizing Theme (13:51)
+
+# customizing MUI Theme :- By default MUI has a theme that is used by every component that we include in our application.
+
+# Link - https://mui.com/material-ui/customization/default-theme/
+
+# Suppose we want to customize the theme according to our application's brand. The most common requirement being customizing the palette.
+
+# To create theme we need to import the 'createTheme' function from MUI. createTheme() accepts an object as its argument. The object structure should match the theme object structure which is similar to the default theme.
+
+# To provide the theme we need to import the theme provider from MUI.
+
+# createTheme() function merges our theme object with default theme and provides it to all underlying components.
+
+# Another common requirement is to add new properties both at the theme level and at a palette level.
+
+# Module Augumentation in TS - Module augmentation in TypeScript is a feature that allows you to extend existing modules, including built-in ones and third-party libraries, by adding new properties, methods, or interfaces. This is particularly useful when you need to add additional functionality to a module that you don't control, without modifying its original code.
+
+# How to add a new color within a palette color
+
